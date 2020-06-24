@@ -1,0 +1,61 @@
+body {
+
+    
+    background-color: rgb(247, 162, 247);
+
+
+}
+
+
+header {
+
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color:rgb(3, 0, 3);
+}
+
+li a:hover {
+
+    color: rgb(241, 121, 195);
+    font-weight: bolder;
+}
+
+
+li {
+
+    float:left;
+}
+
+ul {
+
+    overflow: hidden;
+    list-style-type: none;
+    background-color: rgb(85, 3, 78);
+}
+
+li a {
+
+    display: block ;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding:20px 12px;
+}
+
+.cage {
+
+    text-align: center;
+}
+
+
+#bottomPage {
+
+    text-align: justify;
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: larger;
+
+}

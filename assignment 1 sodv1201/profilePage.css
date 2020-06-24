@@ -1,0 +1,89 @@
+body {
+
+    background-color: rgb(113, 209, 17);
+    
+}
+
+
+header {
+
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color:rgb(0, 0, 0) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h1, h2 {
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+    
+}
+
+div.img img {
+
+    height: 190px;
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#holderBox {
+
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+li a:hover {
+
+    color: rgba(94, 214, 24, 0.479);
+    font-weight: bolder;
+}
+
+
+li {
+
+    float:left;
+}
+
+ul {
+
+    overflow: hidden;
+    list-style-type: none;
+    background-color: rgb(20, 65, 20);
+}
+
+li a {
+
+    display: block ;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding:20px 12px;
+}
+
+.paragraph  {
+
+    text-align: center ;
+}
+#bottomPage {
+
+    text-align: justify;
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+
+

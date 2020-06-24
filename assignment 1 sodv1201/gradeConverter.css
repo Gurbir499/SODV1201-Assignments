@@ -1,0 +1,60 @@
+body {
+
+    background-color: rgb(241, 114, 10);
+    
+}
+
+
+header {
+
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+}
+li a:hover {
+
+    background-color: rgb(150, 14, 14);
+    font-weight: bolder;
+}
+
+
+li {
+
+    float:left;
+}
+
+ul {
+
+    overflow: hidden;
+    list-style-type: none;
+    background-color: rgb(82, 48, 4);
+}
+
+li a {
+
+    display: block ;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding:20px 12px;
+}
+
+
+.cage {
+
+    text-align: center;
+}
+
+
+#bottomPage {
+
+    text-align: justify;
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: larger;
+
+}
